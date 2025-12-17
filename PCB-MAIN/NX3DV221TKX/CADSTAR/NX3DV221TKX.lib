@@ -1,0 +1,18 @@
+.NX3DV221TKX :1 ;USB Switch ICs High-speed USB 2 switch with enable
+SON50P300X300X100-11N
+*STM IC
+*NGS
+*PLB 1="1D+" 2="1D-" 3="2D+" 4="2D-" 5="GND" 6="'OE'" 7="D-" 8="D+" 9="S" 10="VCC" 11="EP"
+*MXP 11
+*DFN NX3DV221TKX
+~!Manufacturer_Name (NXP)
+~!Manufacturer_Part_Number (NX3DV221TKX)
+~!Mouser Part Number (771-NX3DV221TKX)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/NX3DV221TKX?qs=fi7yB2oewZndEq02rwJjiw%3D%3D)
+~!Arrow Part Number (NX3DV221TKX)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/nx3dv221tkx/nxp-semiconductors?region=nac)
+~!Link Datasheet (http://www.nxp.com/docs/en/data-sheet/NX3DV221.pdf)
+~!Height (1mm)
+~!3D_Model (NX3DV221TKX)
+NX3DV221TKX
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 11.1!U 10.1!U 9.1!U 8.1!U 7.1!U 6.1!U 

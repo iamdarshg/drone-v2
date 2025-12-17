@@ -1,0 +1,18 @@
+.LTE3401LX :1 ;RF Amplifier SiGe:C Low Noise Amplifier MMIC with bypass switch for LTE
+LTE3401LX
+*STM IC
+*NGS
+*PLB 1="GND_1" 2="VCC" 3="RF_OUT" 4="GND_2" 5="RF_IN" 6="CTRL"
+*MXP 6
+*DFN LTE3401LX
+~!Manufacturer_Name (NXP)
+~!Manufacturer_Part_Number (LTE3401LX)
+~!Mouser Part Number (771-LTE3401LX)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/LTE3401LX?qs=1mbolxNpo8fJSRXbPxE%2Frw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.nxp.com/docs/en/data-sheet/LTE3401L.pdf)
+~!Height (0.4mm)
+~!3D_Model (LTE3401LX)
+LTE3401LX
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

@@ -1,0 +1,18 @@
+.MM8030-2610RK0 :1 ;1 Inner bore SWG Board Edge 0.45mm 11GHz 50 1.35mm SMD RF Connectors / Coaxial Connectors ROHS
+MM80302610RK0
+*STM J
+*NGS
+*PLB 1="IN" 2="OUT " 3="GND_1" 4="GND_2"
+*MXP 4
+*DFN MM8030-2610RK0
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (MM8030-2610RK0)
+~!Mouser Part Number (81-MM8030-2610RK0)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Electronics/MM8030-2610RK0?qs=Gufeu08L%2Fl1KuihYNYRiLA%3D%3D)
+~!Arrow Part Number (MM8030-2610RK0)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mm8030-2610rk0/murata-manufacturing?region=nac)
+~!Link Datasheet (https://datasheet.lcsc.com/lcsc/1811061528_Murata-Electronics-MM8030-2610RK0_C91632.pdf)
+~!Height (1mm)
+~!3D_Model (MM8030-2610RK0)
+MM8030-2610RK0
+1.1!U 2.1!U 3.1!U 4.1!U 

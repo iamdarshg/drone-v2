@@ -1,0 +1,18 @@
+.STM32WL33KBV6 :1 ;Sub-GHz Wireless Microcontrollers. Single-core Arm Cortex-M0+ @64 MHz with 128 Kbytes of Flash memory, 32 Kbytes of SRAM.
+QFN50P500X500X100-33N-D
+*STM IC
+*NGS
+*PLB 1="PA2" 2="PA3" 3="VDD_1" 4="PA0" 5="PA11" 6="PA10" 7="PA9" 8="PA8" 9="PB6" 10="PB12" 11="PB13" 12="PB14" 13="PB15" 14="LPAWUR" 15="RX" 16="EXTGND" 17="TX_HP" 18="TX" 19="VDDRF" 20="OSCOUT" 21="OSCIN" 22="PA1" 23="PB7" 24="NRST" 25="VDDSD" 26="VLXSD" 27="VSSSD" 28="VFBSD" 29="VCAP" 30="PB0" 31="PB1" 32="PB2" 33="EP"
+*MXP 33
+*DFN STM32WL33KBV6
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (STM32WL33KBV6)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/stm32wl33c8.pdf)
+~!Height (1mm)
+~!3D_Model (STM32WL33KBV6)
+STM32WL33KBV6
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 

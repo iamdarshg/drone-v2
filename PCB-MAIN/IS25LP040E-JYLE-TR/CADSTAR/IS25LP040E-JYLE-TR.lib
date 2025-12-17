@@ -1,0 +1,18 @@
+.IS25LP040E-JYLE-TR :1 ;ff
+SON50P300X200X60-9N
+*STM IC
+*NGS
+*PLB 1="CE#" 2="SO (IO1)" 3="WP# (IO2)" 4="GND" 5="SI (IO0)" 6="SCK" 7="HOLD# (IO3)" 8="VCC" 9="EP"
+*MXP 9
+*DFN IS25LP040E-JYLE-TR
+~!Manufacturer_Name (Integrated Silicon Solution Inc.)
+~!Manufacturer_Part_Number (IS25LP040E-JYLE-TR)
+~!Mouser Part Number (870-IS25LP040EJYLETR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ISSI/IS25LP040E-JYLE-TR?qs=eP2BKZSCXI5j9mdUcQ6FYg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.mouser.co.uk/datasheet/2/198/25LP_WP040E_020E_010E_512E_025E-1903841.pdf)
+~!Height (0.6mm)
+~!3D_Model (IS25LP040E-JYLE-TR)
+IS25LP040E-JYLE-TR
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,18 @@
+.NCV7344AD10R2G :1 ;Compliant with ISO 118982:2016; CAN FD timing specified up to 5 Mbps; VIO pin on NCV73443 Version Allowing Direct Interfacing with 3 V to 5 V Microcontrollers; Very Low Current Standby Mode with Wakeup via the Bus; Low Electromagnetic Emission (EME) and High Electromagnetic Immunity; Very Low EME without Commonmode (CM) Choke; No Disturbance of the Bus Lines with an Unpowered Node; Transmit Data (TxD) Dominant Timeout Function; Under All Supply Conditions the Chip Behaves Predictably; Very High ESD Rob
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="TXD" 2="GND" 3="VCC" 4="RXD" 5="NC" 6="CANL" 7="CANH" 8="STB"
+*MXP 8
+*DFN NCV7344AD10R2G
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (NCV7344AD10R2G)
+~!Mouser Part Number (863-NCV7344AD10R2G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/NCV7344AD10R2G?qs=vLWxofP3U2xyKx7GI28YeQ%3D%3D)
+~!Arrow Part Number (NCV7344AD10R2G)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ncv7344ad10r2g/on-semiconductor?region=nac)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/NCV7344-D.PDF)
+~!Height (1.75mm)
+~!3D_Model (NCV7344AD10R2G)
+NCV7344AD10R2G
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 
